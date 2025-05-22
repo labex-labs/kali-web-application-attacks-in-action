@@ -1,6 +1,6 @@
 # Kali Web Application Attacks in Action
 
-[![Kali Web Application Attacks in Action](https://cover-creator.appbot.io/kali-web-application-attacks-in-action.png)](https://labex.io/courses/kali-web-application-attacks-in-action)
+[![Kali Web Application Attacks in Action](https://cover-creator.labex.io/kali-web-application-attacks-in-action.png)](https://labex.io/courses/kali-web-application-attacks-in-action)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/kali-web-application-attacks-in-action)
 
@@ -16,7 +16,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -26,10 +26,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                      | Difficulty   | Practice                                                                                                        |
-|---------|---------------------------|--------------|-----------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Web Penetration Testing | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-web-penetration-testing-416136'>Start Lab</a> |
-|       2 | 📖 SQL Injection           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/sql-injection-416137'>Start Lab</a>                         |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                             |
+|---------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 📖 Conduct Web Application Penetration Testing with N... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/nmap-conduct-web-application-penetration-testing-with-nmap-416136'>Start Lab</a> |
+|       2 | 📖 Exploit SQL Injection Vulnerabilities in Nmap         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/exploit-sql-injection-vulnerabilities-in-nmap-416137'>Start Lab</a>              |
 
 ## More
 
